@@ -1,0 +1,18 @@
+C:\Users\Austin\source\repos\CapstoneProject\CapstoneProject\bin\Debug\CapstoneProject.exe.config
+C:\Users\Austin\source\repos\CapstoneProject\CapstoneProject\bin\Debug\CapstoneProject.exe
+C:\Users\Austin\source\repos\CapstoneProject\CapstoneProject\bin\Debug\CapstoneProject.pdb
+C:\Users\Austin\source\repos\CapstoneProject\CapstoneProject\obj\Debug\CapstoneProject.csprojAssemblyReference.cache
+C:\Users\Austin\source\repos\CapstoneProject\CapstoneProject\obj\Debug\CapstoneProject.Form1.resources
+C:\Users\Austin\source\repos\CapstoneProject\CapstoneProject\obj\Debug\CapstoneProject.Properties.Resources.resources
+C:\Users\Austin\source\repos\CapstoneProject\CapstoneProject\obj\Debug\CapstoneProject.csproj.GenerateResource.cache
+C:\Users\Austin\source\repos\CapstoneProject\CapstoneProject\obj\Debug\CapstoneProject.exe
+C:\Users\Austin\source\repos\CapstoneProject\CapstoneProject\obj\Debug\CapstoneProject.pdb
+C:\Users\Austin\Desktop\CIT110 - Programmin Logic and Design\Mission 4\CapstoneProject\bin\Debug\CapstoneProject.exe.config
+C:\Users\Austin\Desktop\CIT110 - Programmin Logic and Design\Mission 4\CapstoneProject\bin\Debug\CapstoneProject.exe
+C:\Users\Austin\Desktop\CIT110 - Programmin Logic and Design\Mission 4\CapstoneProject\bin\Debug\CapstoneProject.pdb
+C:\Users\Austin\Desktop\CIT110 - Programmin Logic and Design\Mission 4\CapstoneProject\obj\Debug\CapstoneProject.csprojAssemblyReference.cache
+C:\Users\Austin\Desktop\CIT110 - Programmin Logic and Design\Mission 4\CapstoneProject\obj\Debug\CapstoneProject.Form1.resources
+C:\Users\Austin\Desktop\CIT110 - Programmin Logic and Design\Mission 4\CapstoneProject\obj\Debug\CapstoneProject.Properties.Resources.resources
+C:\Users\Austin\Desktop\CIT110 - Programmin Logic and Design\Mission 4\CapstoneProject\obj\Debug\CapstoneProject.csproj.GenerateResource.cache
+C:\Users\Austin\Desktop\CIT110 - Programmin Logic and Design\Mission 4\CapstoneProject\obj\Debug\CapstoneProject.exe
+C:\Users\Austin\Desktop\CIT110 - Programmin Logic and Design\Mission 4\CapstoneProject\obj\Debug\CapstoneProject.pdb
